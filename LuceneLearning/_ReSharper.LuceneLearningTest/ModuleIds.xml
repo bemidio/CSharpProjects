@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="E5735D98-2A54-4C8A-A243-450A436172D8" ModuleId="LuceneTeste" />
+  <Module PersistentId="37215CB9-EFA7-43E6-A466-384410813C5A" ModuleId="LuceneFacility" />
+  <Module PersistentId="5D4AD9BE-1FFB-41AB-9943-25737971BF57" ModuleId="Lucene.Net" />
+</Modules>

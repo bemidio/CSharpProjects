@@ -1,0 +1,51 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:Enums.cs" caret="165" fromTop="8" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:DefaultSimilarity.cs" caret="2260" fromTop="19" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:Predicate.cs" caret="491" fromTop="20" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:Searcher.cs" caret="9765" fromTop="12" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:Query.cs" caret="8152" fromTop="20" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:TermQuery.cs" caret="2101" fromTop="20" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:Similarity.cs" caret="22674" fromTop="28" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Index/f:IndexReader.cs" caret="9482" fromTop="23" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Index/f:DirectoryReader.cs" caret="25297" fromTop="21" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Analysis/f:LowerCaseTokenizer.cs" caret="0" fromTop="0" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:IndexCreator.cs" caret="742" fromTop="25" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:QueryResults.cs" caret="371" fromTop="17" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="5431" fromTop="31" />
+    <File id="5D4AD9BE-1FFB-41AB-9943-25737971BF57/d:Search/f:IndexSearcher.cs" caret="6731" fromTop="20" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="532" fromTop="5" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="5409" fromTop="10" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4713" fromTop="13" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4713" fromTop="19" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="5421" fromTop="17" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4518" fromTop="14" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4518" fromTop="11" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4518" fromTop="32" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="353" fromTop="15" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="48" fromTop="1" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4944" fromTop="32" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="18" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="10" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="522" fromTop="12" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="834" fromTop="22" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:IndexCreator.cs" caret="742" fromTop="25" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="1221" fromTop="31" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="2132" fromTop="26" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4361" fromTop="8" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="29" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="1132" fromTop="28" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="6190" fromTop="32" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:QueryResults.cs" caret="429" fromTop="21" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:QueryResults.cs" caret="371" fromTop="17" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="5376" fromTop="34" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4952" fromTop="21" />
+    <File id="37215CB9-EFA7-43E6-A466-384410813C5A/f:LuceneBag.cs" caret="4666" fromTop="8" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="21" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="12" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="2067" fromTop="19" />
+    <File id="E5735D98-2A54-4C8A-A243-450A436172D8/f:Program.cs" caret="532" fromTop="5" />
+  </RecentEdits>
+</RecentFiles>

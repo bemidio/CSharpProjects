@@ -1,0 +1,16 @@
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\bin\Debug\LuceneFacility.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\bin\Debug\LuceneFacility.pdb
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\bin\Debug\Lucene.Net.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\obj\Debug\LuceneFacility.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\obj\Debug\LuceneFacility.pdb
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearningTest\LuceneFacility\bin\Debug\Lucene.Net.pdb
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\bin\Debug\LuceneFacility.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\bin\Debug\LuceneFacility.pdb
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\bin\Debug\Lucene.Net.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\bin\Debug\Lucene.Net.xml
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\obj\Debug\LuceneFacility.dll
+C:\Users\bemidio\Documents\Visual Studio 2010\Projects\LuceneLearning\LuceneFacility\obj\Debug\LuceneFacility.pdb
